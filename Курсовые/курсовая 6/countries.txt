@@ -1,0 +1,44 @@
+Austria:Vienna:8169929:1897491
+Albania:Tirana:2831741:906166
+Andorra:Andorra-la-Vella:68403:22615
+Belgium:Brussels:11007000:185103
+Belarus:Minsk:9458000:1996553
+Bulgaria:Sofia:7621337:1276434
+Bosnia and Herzegovina:Sarajevo:3843126:343000
+Vatican:Vatican:900:900
+United Kingdom:London:61100835:8961989
+Hungary:Budapest:10075034:1723836
+Germany:Berlin:83155031:3664088
+Greece:Athens:10815187:3168846
+Denmark:Copenhagen:5564219:615993
+Ireland:Dublin:4234925:1173179
+Iceland:Reykjavik:307261:134010
+Spain:Madrid:45061274:3266126
+Italy:Rome:59530464:2870500
+Latvia:Riga:2067900:614618
+Lithuania:Vilnius:2988400:592389
+Liechtenstein:Vaduz:32842:5668
+Luxembourg:Luxembourg:448569:128512
+Macedonia:Skopje:2054800:509900
+Malta:Valletta:397499:5719
+Moldova:Chisinau:4434547:695400
+Monaco:Monaco:31987:975
+Netherlands:Amsterdam:16318199:872757
+Norway:Oslo:5018836:673469
+Poland:Warsaw:38625478:1792692
+Portugal:Lisbon:10409995:505526
+Russia:Moscow:90064248:12635466
+Romania:Bucharest:21698181:2158758
+San-Marino:San-Marino:27730:4040
+Serbia:Belgrade:7120666:1378682
+Slovakia:Bratislava:5422366:437725
+Slovenia:Ljubljana:2050189:284355
+Ukraine:Kiev:48396470:2954564
+Finland:Helsinki:5157537:656611
+France:Paris:63182000:2148327
+Croatia:Zagreb:4437460:802588
+Montenegro:Podgorica:616258:150977
+Czech Republic:Prague:10256760:1331598
+Switzerland:Bern:7507000:134727
+Sweden:Stockholm:9090113:1981330
+Estonia:Tallinn:1340194:444560
